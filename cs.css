@@ -1,0 +1,30 @@
+body{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+h2{
+    font-family: "Rosarivo", cursive;
+    font-weight: 400;
+    font-style: italic;
+    color: rgb(12, 120, 208);
+}
+
+.card-title {
+    color: rgb(3, 62, 44);
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card-text{
+    font-family: "Kameron", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.card{
+    max-width: 18rem;
+    margin: 20px;
+    border-radius: 0;
+}
